@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#title{
+    text-decoration: overline;
+}
+#container{
+    width: 1200px;
+    margin: auto;
+    margin: 40px 700px 40px;
+    
+}
